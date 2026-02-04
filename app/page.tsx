@@ -1,6 +1,6 @@
 "use client";
 
-import { CardStack, CardStackItem } from "@/components/card-stack";
+import { CardStack, type CardStackItem } from "@/components/card-stack";
 import NeuralBackground from "@/components/flow-field-background";
 import { GooeyText } from "@/components/gooey-text-morphing";
 import DisplayCards from "@/components/display-cards";
